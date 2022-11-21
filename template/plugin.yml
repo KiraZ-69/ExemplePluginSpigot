@@ -2,7 +2,7 @@ name : Template
 version: 1.0
 author: template
 api-version: 1.13
-main: fr.template
+main: fr.template.main
 testcmd:
   license:
     description: test cmd
